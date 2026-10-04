@@ -20,5 +20,10 @@
         "base_url": "<your Azure OpenAI API base here>",
         "api_type": "azure",
         "api_version": "2024-02-15-preview"
+    },
+    {
+        "model": "MiniMax-M2.7",
+        "api_key": "<your MiniMax API key here>",
+        "base_url": "https://api.minimax.io/v1"
     }
 ]
